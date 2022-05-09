@@ -57,7 +57,7 @@ https://drive.google.com/drive/folders/1FMB1ywiQ9-mT2g3YO6GrN7hOZ9bdqyUF?usp=sha
 </h1>
 
 We simulated a new dataset using CARLA for pedestrian action prediction.
-For more deatils about the dataset, check the following github repository:
+For more details about the dataset, check the following github repository:
 
 https://github.com/linaashaji/CP2A
 
